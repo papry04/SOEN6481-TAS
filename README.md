@@ -31,7 +31,11 @@
 * Consider the project insurance options, if any, to find out how they can compensate for loses;
 * Contact all minor stakeholders and interested community to announce project cancellation;
 * Archive the major project documentation
+## Empirical Evidence and Examples: 
 
+* A study by the Project Management Institute (PMI) found that 71% of canceled projects were due to shifting business priorities or lack of resources. Effective communication and transparency could have helped address these issues (PMI, 2019).
+
+* A real-life example of project termination is the cancellation of the Google+ social network in 2019. Google was transparent about the reasons for discontinuation, citing low user engagement and data security concerns. This approach helped manage public expectations and prevent potential legal disputes (Google, 2019).
   ## References:
   1. http://www.todolistsoft.com/solutions/checklist/project-cancellation-checklist.php
   2. https://thedigitalprojectmanager.com/projects/leadership-team-management/what-to-say-do-when-project-cancelled/
