@@ -32,6 +32,21 @@
 * Contact all minor stakeholders and interested community to announce project cancellation;
 * Archive the major project documentation
 ## Empirical Evidence and Examples: 
+* Google Wave: In 2010, Google canceled its collaborative online communication and productivity platform, Google Wave. Despite high expectations, the project was canceled due to its complexity and difficulties in gaining user adoption.
+
+* Microsoft Courier: Microsoft's dual-screen tablet project, known as the Courier, was highly anticipated. However, in 2010, Microsoft decided to cancel the project, citing concerns about meeting consumer expectations and competition.
+
+* Boeing Sonic Cruiser: Boeing's Sonic Cruiser project aimed to develop a faster and more fuel-efficient passenger airplane. It was canceled in 2002 due to concerns about the aircraft's economic viability and the impact of the 9/11 attacks on the aviation industry.
+
+* Segway Centaur: The Segway Centaur was intended to be a self-balancing, four-wheeled electric vehicle. It was canceled before production began due to financial difficulties and a changing market landscape.
+
+* Nokia MeeGo: Nokia's MeeGo operating system was intended to compete with iOS and Android. However, it was canceled in favor of a partnership with Microsoft to use the Windows Phone operating system.
+
+* AOL's Patch: AOL's ambitious hyperlocal news project, Patch, aimed to deliver community-specific news. It faced financial challenges and was scaled back significantly, resulting in many layoffs and closures of local Patch websites.
+
+* Google Glass (1st Generation): Google's initial foray into smart glasses, Google Glass, generated significant buzz but faced privacy concerns and limited real-world applications. The project was canceled in its original form in 2015, though it evolved into enterprise applications.
+
+* Apple's Titan Car Project: Apple's secretive autonomous electric car project, codenamed "Project Titan," faced difficulties, including leadership changes and unclear objectives. The company shifted its focus from building a car to developing autonomous driving technology and software.
 
 
   ## References:
