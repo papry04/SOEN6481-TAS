@@ -19,3 +19,13 @@ This case study provides an overview of the best practices for ending a canceled
 * Hold a meeting involving all contributors to discuss openly what happened during the project.
 * Emphasize successful processes and achievements before addressing challenges.
 * Identify changes that could have improved project outcomes and prioritize recommendations for future projects.
+
+## Recognizing Individual Accomplishments
+1. Individual Appreciation Meetings:
+
+* Meet individually with each person involved to express gratitude and acknowledge their efforts.
+* If applicable, recommend or seek specific rewards and recognition for team members.
+2. Communication with Managers:
+
+* Send notes to the managers of team members, describing their performance and emphasizing positive contributions.
+* Highlight individual accomplishments that can serve as valuable experience for future project
