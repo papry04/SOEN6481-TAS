@@ -25,11 +25,12 @@ This case study provides an overview of the best practices for ending a canceled
 
 * Meet individually with each person involved to express gratitude and acknowledge their efforts.
 * If applicable, recommend or seek specific rewards and recognition for team members.
-* 
+  
 2 Stakeholder Engagement:
 * Meet with stakeholders and project sponsors for a debrief to discuss met and unmet expectations.
 * Explore strategies for improving future projects and ensuring better project conclusions.
+  
 3 Team Event:
 * Schedule a small team event at the conclusion of the project to celebrate achievements.
 * If organizational support is lacking, consider self-funding or organizing a 'pot luck' gathering.
-Strive to end the project on a positive note to foster a collaborative and supportive environment for future endeavors.
+* Strive to end the project on a positive note to foster a collaborative and supportive environment for future endeavors.
